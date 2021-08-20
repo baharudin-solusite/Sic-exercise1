@@ -1,0 +1,36 @@
+p { color: blue;}
+
+/* body{
+    background-image:url(/img/bakar.jpg)
+    
+}
+
+@media screen and (max-width:300px) {
+    p{color:brown}
+
+    .logo-fecebook{
+    width: 30px;
+    }
+    
+} */
+*{
+    padding: 0;
+    margin:0;
+    font-family: sans-serif;
+}
+*{
+    color: inherit;
+    
+}
+.mensos {
+    padding: 5px 0;
+    background-color: #121212;
+}
+.mensos ul li {
+    display: inline-block;
+    color: #fff;
+
+}
+.container {
+    width:80% ;
+}
